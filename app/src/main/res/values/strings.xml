@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="sum">Sumatoria</string>
+    <string name="reset">Reset</string>
+    <string name="titulo">Contador manual</string>
+    <string name="sum_1">+1</string>
+    <string name="changes">0</string>
+</resources>
