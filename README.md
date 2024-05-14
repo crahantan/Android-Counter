@@ -1,4 +1,4 @@
-# contador
-Aplicación que puede ser utilizada para llevar el conteo de repeticiones de cualquier actividad.
+# Android-Counter
+Application that can be used to keep track of repetitions of any activity.
 
 
